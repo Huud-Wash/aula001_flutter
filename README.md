@@ -1,4 +1,4 @@
-# aula001_flutterimport 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 
 const Color darkBlue = Color.fromARGB(255, 18, 32, 47);
 
